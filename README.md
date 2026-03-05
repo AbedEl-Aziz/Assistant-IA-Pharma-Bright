@@ -50,7 +50,7 @@ Prerequisites
         Git
         Download mistral-7b-instruct-v0.1.Q4_0.gguf from: (https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF/blob/main/mistral-7b-instruct-v0.1.Q4_0.gguf) 
             The file `mistral-7b-instruct-v0.1.Q4_0.gguf` is too large for GitHub.  
-            Place it in the project directory before running scripts.
+            Place it in the project directory before running scripts (path should be: backend\app\models\mistral-7b-instruct-v0.1.Q4_0.gguf).
 
 Environment Variables
     Create a .env file from the example:
