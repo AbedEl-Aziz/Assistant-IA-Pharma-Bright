@@ -28,6 +28,7 @@ Project Structure
     │   │   └── main.py
     │   │
     │   ├── tests/
+    │   ├── .env
     │   └── requirements.txt
     │
     ├── frontend/
@@ -38,7 +39,6 @@ Project Structure
     │
     ├── Dockerfile
     ├── docker-compose.yml
-    ├── .env
     ├── README.md
     └── ARCHITECTURE.md
 
@@ -53,6 +53,7 @@ Prerequisites
             Place it in the project directory before running scripts (path should be: backend\app\models\mistral-7b-instruct-v0.1.Q4_0.gguf).
 
 Environment Variables
+    cd backend
     Create a .env file from the example:
     cp .env .env
 
