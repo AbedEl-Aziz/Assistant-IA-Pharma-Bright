@@ -1,0 +1,13 @@
+TITLE: Internal Quality Policy – PharmaCorp
+
+Section 1: Document Control
+All quality documents must be version controlled and reviewed annually.
+
+Section 2: Deviation Handling
+All deviations must be logged within 24 hours.
+
+Section 3: Training
+Employees must complete GMP training annually.
+
+Section 4: Data Retention
+Records must be retained for a minimum of 10 years.
