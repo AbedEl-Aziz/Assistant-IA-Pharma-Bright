@@ -61,7 +61,7 @@ Environment Variables
     API_KEY_TENANT_B=key-tenant-b
     DATABASE_URL=postgresql://username:pass?@localhost:5432/dbName
 
-ps: If you will use Docker move to the buttom of this file (Line:138)
+ps: If you will use Docker move to the buttom of this file
 Backend Setup (FastAPI) 
     Navigate to the backend directory using:
         cd backend
