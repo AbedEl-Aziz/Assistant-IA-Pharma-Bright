@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.log
+
+# Node / React
+node_modules/
+build/
+dist/
+
+# Docker
+Parma-IA/
+*.env
+*.dockerignore
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large model files
+mistral-7b-instruct-v0.1.Q4_0.gguf
