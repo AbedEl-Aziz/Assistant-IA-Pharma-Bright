@@ -1,0 +1,14 @@
+psycopg2-binary
+fastapi
+uvicorn
+langchain
+openai
+sqlalchemy
+pytest
+httpx
+python-dotenv
+pydantic
+gpt4all
+langchain-huggingface
+axios
+mistral_inference

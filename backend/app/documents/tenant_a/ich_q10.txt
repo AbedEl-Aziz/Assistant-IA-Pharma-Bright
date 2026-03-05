@@ -1,0 +1,16 @@
+TITLE: ICH Q10 Pharmaceutical Quality System
+
+Section 1: Introduction
+The Pharmaceutical Quality System described in ICH Q10 provides a framework for a comprehensive system for pharmaceutical quality management.
+
+Section 2: Management Responsibility
+Senior management has the ultimate responsibility to ensure an effective pharmaceutical quality system is established and maintained.
+
+Section 3: Continual Improvement
+The system should facilitate continual improvement of product quality and process performance.
+
+Section 4: Corrective and Preventive Actions (CAPA)
+CAPA systems should investigate root causes of deviations and implement corrective actions.
+
+Section 5: Change Management
+Changes should be evaluated for potential impact on product quality and regulatory compliance.

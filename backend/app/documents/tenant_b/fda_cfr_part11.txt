@@ -1,0 +1,13 @@
+TITLE: FDA 21 CFR Part 11 – Electronic Records and Signatures
+
+Section 1: Scope
+This regulation applies to electronic records and electronic signatures.
+
+Section 2: Electronic Records
+Electronic records must be trustworthy, reliable, and equivalent to paper records.
+
+Section 3: Electronic Signatures
+Electronic signatures must be unique to one individual.
+
+Section 4: Controls for Open Systems
+Systems must ensure authenticity, integrity, and confidentiality of records.

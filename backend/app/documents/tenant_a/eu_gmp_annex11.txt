@@ -1,0 +1,16 @@
+TITLE: EU GMP Annex 11 – Computerised Systems
+
+Section 1: Risk Management
+Risk management should be applied throughout the lifecycle of the computerized system.
+
+Section 2: Personnel
+Personnel should have appropriate qualifications and training.
+
+Section 3: Data Integrity
+Data should be secure, accurate, and protected against unauthorized access.
+
+Section 4: Audit Trails
+Audit trails must record all critical changes to data.
+
+Section 5: System Validation
+Computerized systems must be validated to demonstrate fitness for intended use.
